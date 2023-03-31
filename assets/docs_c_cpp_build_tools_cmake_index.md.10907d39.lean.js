@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.318754cd.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/c_cpp/build_tools/cmake/index.md","lastUpdated":null}'),c={name:"docs/c_cpp/build_tools/cmake/index.md"};function o(s,n,d,r,p,_){return t(),a("div")}const m=e(c,[["render",o]]);export{l as __pageData,m as default};
